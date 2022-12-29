@@ -3,11 +3,11 @@
 # A Web3.0 based Campaign Funding Application
 
 - Technology Stack
-  -- React JS
-  -- Solidity
-  -- JavaScript
-  -- ThirdWeb Integration
-  -- "Goerli" Testnet
+  - React JS
+  - Solidity
+  - JavaScript
+  - ThirdWeb Integration
+  - "Goerli" Testnet
 
 ## Getting Started with the project
 
