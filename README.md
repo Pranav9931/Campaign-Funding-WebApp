@@ -1,4 +1,17 @@
-## Getting Started
+## Web3 Campaign Funding Application
+
+# A Web3.0 based Campaign Funding Application
+
+- Technology Stack
+  -- React JS
+  -- Solidity
+  -- JavaScript
+  -- ThirdWeb Integration
+  -- "Goerli" Testnet
+
+## Getting Started with the project
+
+# Follow the steps below to install the right packages and node modules.
 
 Create a project using this example:
 
